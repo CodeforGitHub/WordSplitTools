@@ -131,6 +131,16 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="bin\Debug\Resources\char_state_tab.json" />
+    <None Include="bin\Debug\Resources\pos_prob_emit.json" />
+    <None Include="bin\Debug\Resources\pos_prob_start.json" />
+    <None Include="bin\Debug\Resources\pos_prob_trans.json" />
+    <None Include="bin\Debug\Resources\prob_emit.json" />
+    <None Include="bin\Debug\Resources\prob_trans.json" />
+    <None Include="bin\Debug\WordSplitTools.exe.config" />
+    <None Include="bin\Debug\WordSplitTools.vshost.application" />
+    <None Include="bin\Debug\WordSplitTools.vshost.exe.config" />
+    <None Include="bin\Debug\WordSplitTools.vshost.exe.manifest" />
     <None Include="packages.config" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
@@ -148,6 +158,25 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\Google.Protobuf.dll" />
+    <Content Include="bin\Debug\Google.Protobuf.xml" />
+    <Content Include="bin\Debug\JiebaNet.Analyser.dll" />
+    <Content Include="bin\Debug\JiebaNet.Segmenter.dll" />
+    <Content Include="bin\Debug\MySql.Data.dll" />
+    <Content Include="bin\Debug\MySql.Data.xml" />
+    <Content Include="bin\Debug\Newtonsoft.Json.dll" />
+    <Content Include="bin\Debug\Newtonsoft.Json.xml" />
+    <Content Include="bin\Debug\Npgsql.dll" />
+    <Content Include="bin\Debug\Npgsql.xml" />
+    <Content Include="bin\Debug\Resources\cn_synonym.txt" />
+    <Content Include="bin\Debug\Resources\dict.txt" />
+    <Content Include="bin\Debug\Resources\idf.txt" />
+    <Content Include="bin\Debug\Resources\stopwords.txt" />
+    <Content Include="bin\Debug\System.Threading.Tasks.Extensions.dll" />
+    <Content Include="bin\Debug\System.Threading.Tasks.Extensions.xml" />
+    <Content Include="bin\Debug\WordSplitTools.exe" />
+    <Content Include="bin\Debug\WordSplitTools.pdb" />
+    <Content Include="bin\Debug\WordSplitTools.vshost.exe" />
     <Content Include="docs\MySqlCommand.xml" />
     <Content Include="docs\MySqlCommandBuilder.xml" />
     <Content Include="docs\MySqlConnection.xml" />
